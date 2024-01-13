@@ -1,6 +1,7 @@
 # top-sites-security.txt
 
 1- Donwload top 1000000 domains from here https://radar.cloudflare.com/domains
+
 2- Check `security.txt` and `.well-known/security.txt` for main domain
 
 ```
